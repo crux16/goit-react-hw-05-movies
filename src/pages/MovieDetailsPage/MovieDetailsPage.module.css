@@ -1,0 +1,11 @@
+.movieDetailsContainer {
+    display: flex;
+    gap: 30px;
+}
+
+.list {
+    display: inline-flex;
+    gap: 10px;
+    list-style-type: none;
+    padding: 0;
+}
